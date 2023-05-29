@@ -1,0 +1,21 @@
+/*inciso 4*/
+#cuerpo{
+    /*background: whitesmoke;*/
+    margin: 20px;
+    font-family: Verdana;
+}
+
+/*inciso 3*/
+html{
+    padding: 200px;  
+}
+
+/*inciso 6*/
+.multiple{
+font-family: Tahoma;
+}
+
+/*inciso 5*/
+input[name='email']{
+    background-color: #eeeeee;
+}
